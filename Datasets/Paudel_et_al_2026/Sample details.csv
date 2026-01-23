@@ -1,0 +1,61 @@
+﻿Sample,Dataset,Site,Species,Clone,Sun_Shade,Phenological_stage,Photosynthetic_pathway,Plant_type,Soil,Leaf area,Leaf weight,LMA,Nconc_percent,Parea,Pmass,LWC,Narea,Nmass
+DFA_B1_P4_9709,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,223.85,2.5248,112.7898146,2.888331455,NA,NA,NA,3.257743693,28.883315
+DFA_B1_P6_8717,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",8717,Sun,Young,C3,Agricultural,Managed,136.67,1.231,90.07097388,2.716840799,NA,NA,NA,2.447084966,27.168408
+DFA_B1_P7_9671,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,276.02,2.8623,103.6990073,2.060285256,NA,NA,NA,2.136495358,20.602853
+DFA_B1_P8_110412,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,260.62,2.5498,97.83592971,3.166297225,NA,NA,NA,3.097776327,31.662972
+DFA_B1_P9_7903,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,159.33,1.5141,95.02918471,2.65605459,NA,NA,NA,2.524027022,26.560546
+DFA_B1_P12_S7C8,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,165.76,1.6325,98.48576255,2.486464688,NA,NA,NA,2.448813709,24.864647
+DFA_B1_P16_S7C8,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,153.48,1.1919,77.65832682,3.177756503,NA,NA,NA,2.467792531,31.777565
+DFA_B1_P17_9709,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,376.04,2.1902,58.24380385,2.181932671,NA,NA,NA,1.270840585,21.819327
+DFA_B1_P15_110412,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,271.2,2.3679,87.3119469,3.147319874,NA,NA,NA,2.747986257,31.473199
+DFA_B1_P19_8717,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",8717,Sun,Young,C3,Agricultural,Managed,176.89,1.6683,94.31284979,2.648998569,NA,NA,NA,2.498346041,26.489986
+DFA_B1_P20_9671,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,452.99,4.0464,89.3264752,2.840492257,NA,NA,NA,2.537311612,28.404923
+DFA_B1_P23_7903,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,254.82,2.4037,94.32933051,2.6349193,NA,NA,NA,2.485501735,26.349193
+DFA_B2_P1_S7C8,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,129.58,1.2246,94.5053249,2.33078987,NA,NA,NA,2.202720539,23.307899
+DFA_B2_P2_110412,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,179.13,1.6728,93.38469268,2.395710362,NA,NA,NA,2.237226759,23.957104
+DFA_B2_P8_7903,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,168.35,1.5203,90.30591031,2.663283914,NA,NA,NA,2.405102783,26.632839
+DFA_B2_P9_9709,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,165.54,1.8373,110.9882808,1.546062934,NA,NA,NA,1.715948671,15.460629
+DFA_B2_P11_8717,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",8717,Sun,Young,C3,Agricultural,Managed,131.92,1.2791,96.96027896,2.518971957,NA,NA,NA,2.442402236,25.18972
+DFA_B2_P12_9671,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,193.18,1.8217,94.30065224,2.245662946,NA,NA,NA,2.117674805,22.456629
+DFA_B2_P15_9709,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,208.24,2.0337,97.66135229,1.451225043,NA,NA,NA,1.417286002,14.51225
+DFA_B2_P16_S7C8,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,182.7,1.5425,84.42802408,2.941891535,NA,NA,NA,2.483780894,29.418915
+DFA_B2_P17_110412,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,186.35,1.5453,82.92460424,2.862486678,NA,NA,NA,2.373705749,28.624867
+DFA_B2_P20_8717,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",8717,Sun,Young,C3,Agricultural,Managed,198.64,1.8002,90.62625856,2.884695918,NA,NA,NA,2.614291981,28.846959
+DFA_B2_P21_7903,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,207.53,1.7336,83.53491062,2.613306286,NA,NA,NA,2.18302307,26.133063
+DFA_B2_P22_9671,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,383.73,3.8351,99.94266802,2.6366562,NA,NA,NA,2.635144553,26.366562
+DFA_B3_P1_8717,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",8717,Sun,Young,C3,Agricultural,Managed,137.34,1.0085,73.43090141,2.415467852,NA,NA,NA,1.773699817,24.154679
+DFA_B3_P4_7903,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,153.46,1.2566,81.88453017,2.469918211,NA,NA,NA,2.022480923,24.699182
+DFA_B3_P5_9671,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,230.75,2.117,91.74431203,2.248557241,NA,NA,NA,2.062923371,22.485572
+DFA_B3_P8_110412,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,200.01,1.8392,91.95540223,2.848405856,NA,NA,NA,2.619263062,28.484059
+DFA_B3_P9_S7C8,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,115.75,0.9238,79.80993521,2.989891475,NA,NA,NA,2.386230449,29.898915
+DFA_B3_P11_9709,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,374.01,3.9312,105.1094891,2.889094791,NA,NA,NA,3.036712774,28.890948
+DFA_B3_P13_9671,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,255.59,2.3787,93.0670214,2.63800561,NA,NA,NA,2.455113246,26.380056
+DFA_B3_P16_9709,Paudel_et_al,DFA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,387.57,4.3259,111.6159661,2.42499324,NA,NA,NA,2.706679633,24.249932
+DFA_B3_P17_8717,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",8717,Sun,Young,C3,Agricultural,Managed,224.75,2.3965,106.6295884,2.682528525,NA,NA,NA,2.860369125,26.825285
+DFA_B3_P20_7903,Paudel_et_al,DFA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,134.49,1.4877,110.6178898,2.201965078,NA,NA,NA,2.435767303,22.019651
+DFA_B3_P21_110412,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,182.74,1.5638,85.57513407,2.074079303,NA,NA,NA,1.774896144,20.740793
+DFA_B3_P22_S7C8,Paudel_et_al,DFA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,175.94,1.6893,96.01568717,2.536364849,NA,NA,NA,2.435308139,25.363648
+POA_B4_P1_8717,Paudel_et_al,POA,"P.deltoides × P. trichocarpa, Taxa - D×T",8717,Sun,Young,C3,Agricultural,Managed,234.33,1.9121,81.59860026,2.96645071,NA,NA,NA,2.420582257,29.664507
+POA_B4_P3_9709,Paudel_et_al,POA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,279.71,2.4889,88.98144507,3.033092974,NA,NA,NA,2.698889959,30.33093
+POA_B4_P7_S7C8,Paudel_et_al,POA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,250.08,2.5544,102.1433141,1.623265183,NA,NA,NA,1.658056855,16.232652
+POA_B4_P9_7903,Paudel_et_al,POA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,109.6,1.0689,97.52737226,1.743270627,NA,NA,NA,1.700166034,17.432706
+POA_B4_P10_110412,Paudel_et_al,POA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,214.2,2.0317,94.85060691,1.714810909,NA,NA,NA,1.626508555,17.148109
+POA_B4_P12_9761,Paudel_et_al,POA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,173.33,1.2401,71.54560665,2.101487487,NA,NA,NA,1.503521971,21.014875
+POA_B4_P13_7903,Paudel_et_al,POA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,268.72,2.4191,90.02307234,2.33393857,NA,NA,NA,2.101083207,23.339386
+POA_B4_P17_9709,Paudel_et_al,POA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,167.65,1.7338,103.4178348,2.441159578,NA,NA,NA,2.52459438,24.411596
+POA_B4_P18_110412,Paudel_et_al,POA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,153.45,1.7002,110.7983056,2.079962339,NA,NA,NA,2.304563029,20.799623
+POA_B4_P20_9671,Paudel_et_al,POA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,263.69,2.2722,86.16936554,2.275504959,NA,NA,NA,1.960788186,22.75505
+POA_B4_P22_S7C8,Paudel_et_al,POA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,164.45,1.665,101.2465795,1.937263087,NA,NA,NA,1.961412612,19.372631
+POA_B4_P24_8717,Paudel_et_al,POA,"P.deltoides × P. trichocarpa, Taxa - D×T",8717,Sun,Young,C3,Agricultural,Managed,143.31,1.2231,85.34645175,2.149199826,NA,NA,NA,1.834265793,21.491998
+POA_B5_P3_110412,Paudel_et_al,POA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,123.82,1.1461,92.56178323,2.617545732,NA,NA,NA,2.422847006,26.175457
+POA_B5_P5_8717,Paudel_et_al,POA,"P.deltoides × P. trichocarpa, Taxa - D×T",8717,Sun,Young,C3,Agricultural,Managed,116.91,1.1948,102.1982722,2.322660054,NA,NA,NA,2.373718444,23.226601
+POA_B5_P6_9671,Paudel_et_al,POA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,180.85,1.6547,91.49571468,2.562228601,NA,NA,NA,2.34432937,25.622286
+POA_B5_P7_S7C8,Paudel_et_al,POA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,192.73,1.9484,101.0947958,2.449018457,NA,NA,NA,2.475830208,24.490185
+POA_B5_P10_7903,Paudel_et_al,POA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,216.87,1.9114,88.13574953,2.491037805,NA,NA,NA,2.195494841,24.910378
+POA_B5_P12_9709,Paudel_et_al,POA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,277.41,2.3989,86.47489276,2.636201131,NA,NA,NA,2.279652101,26.362011
+POA_B5_P15_7903,Paudel_et_al,POA,"P.deltoides × P. trichocarpa, Taxa - D×T",7903,Sun,Young,C3,Agricultural,Managed,222.26,1.9171,86.25483668,2.291304522,NA,NA,NA,1.976360973,22.913045
+POA_B5_P16_110412,Paudel_et_al,POA,"P. deltoides × P. deltoides, Taxa - D×D ",110412,Sun,Young,C3,Agricultural,Managed,279.46,2.2252,79.62499105,2.359102937,NA,NA,NA,1.878435502,23.591029
+POA_B5_P17_S7C8,Paudel_et_al,POA,"P. deltoides × P. deltoides, Taxa - D×D ",S7C8,Sun,Young,C3,Agricultural,Managed,229.2,1.6798,73.28970332,2.358225124,NA,NA,NA,1.728336197,23.582251
+POA_B5_P19_9709,Paudel_et_al,POA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9709,Sun,Young,C3,Agricultural,Managed,207.11,1.396,67.40379508,2.578484938,NA,NA,NA,1.737996704,25.784849
+POA_B5_P20_9671,Paudel_et_al,POA,"Populus deltoides × Populus maximowiczii, Taxa - D×M",9671,Sun,Young,C3,Agricultural,Managed,308.33,2.1716,70.43103169,2.74186432,NA,NA,NA,1.931123328,27.418643
+POA_B5_P21_8717,Paudel_et_al,POA,,8717,Sun,Young,C3,Agricultural,Managed,247.4,2.0619,83.34276475,2.187949992,NA,NA,NA,1.823498015,21.8795
